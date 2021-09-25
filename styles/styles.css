@@ -4,4 +4,13 @@ body {
   -khtml-user-select: none;
   -ms-user-select: none;
   color: #4e4e4e;
+  background-color: #38fd99;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
 }
