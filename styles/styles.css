@@ -14,3 +14,16 @@ body {
   height: 100%;
   flex-direction: column;
 }
+
+#support {
+  font-size: 14px;
+  text-align: center;
+  max-width: 316px;
+  font-weight: 400;
+  margin-bottom: 23px;
+}
+
+a {
+  color: #5ea0c5;
+  text-decoration: none;
+}
