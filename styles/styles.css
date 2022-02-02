@@ -19,11 +19,12 @@ body {
   font-size: 14px;
   text-align: center;
   max-width: 316px;
-  font-weight: 400;
+  font-weight: 700;
   margin-bottom: 23px;
+  color: "000";
 }
 
-a {
-  color: #5ea0c5;
-  text-decoration: none;
+#stringbet-logo {
+  width: 50;
+  height: 50;
 }
