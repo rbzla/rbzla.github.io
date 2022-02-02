@@ -30,5 +30,11 @@ body {
 }
 
 .stringbet-container {
-  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stringbet-container div {
+  max-width: 500;
 }
