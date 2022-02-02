@@ -15,18 +15,10 @@ body {
   flex-direction: column;
 }
 
-#support {
-  font-size: 14px;
-  text-align: center;
-  max-width: 316px;
-  font-weight: 700;
-  margin-bottom: 23px;
-  color: "000";
-}
-
 #stringbet-logo {
   width: 50;
   height: 50;
+  margin: 25;
 }
 
 .stringbet-container {
@@ -37,4 +29,8 @@ body {
 
 .stringbet-container div {
   max-width: 500;
+}
+
+.centered {
+  text-align: center;
 }
