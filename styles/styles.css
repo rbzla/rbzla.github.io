@@ -50,3 +50,9 @@ body {
 .boggler-container div {
   max-width: 500;
 }
+
+#boggler-logo {
+  width: 50;
+  height: 50;
+  margin: 25;
+}
