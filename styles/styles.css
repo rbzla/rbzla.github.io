@@ -39,3 +39,14 @@ body {
 .centered {
   text-align: center;
 }
+
+.boggler-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4d456;
+}
+
+.boggler-container div {
+  max-width: 500;
+}
