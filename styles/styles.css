@@ -56,3 +56,8 @@ body {
   height: 50;
   margin: 25;
 }
+
+.boggler-link {
+  text-decoration: none;
+  color: #15343b;
+}
